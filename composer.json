@@ -1,0 +1,16 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.1",
+        "aza/thread": "~1.0",
+        "monolog/monolog": "^2.1",
+        "moesif/moesif-slim": "^1.0"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "~1.4",
+        "mockery/mockery": "0.9.*",
+        "phpunit/phpunit": "~5.0",
+        "symfony/css-selector": "3.1.*",
+        "symfony/dom-crawler": "3.1.*"
+    }
+}
