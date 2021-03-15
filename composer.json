@@ -4,7 +4,7 @@
         "slim/psr7": "^1.1",
         "aza/thread": "~1.0",
         "monolog/monolog": "^2.1",
-        "moesif/moesif-slim": "^1.0"
+        "moesif/moesif-slim": "^1.1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
